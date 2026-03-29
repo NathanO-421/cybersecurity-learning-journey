@@ -1,4 +1,4 @@
-# authentication notes 
+# Authentication notes 
 Notes from CS110:
   Authentication - establish user identity to satisfaction of the system (passwords, biometrics) 
   Authorisation - Govern what authenticated user can do within the system
