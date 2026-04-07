@@ -1,6 +1,16 @@
-# Authentication notes 
-Notes from CS110:
-  Authentication - establish user identity to satisfaction of the system (passwords, biometrics) 
-  Authorisation - Govern what authenticated user can do within the system
-    * system adminstration gets universal access and can set up the authorisaton 
-    * set of permitted actions for each authorised person (e.g. editing rights)
+# Authentication & Authorisation Notes 
+
+## Authentication 
+Authentication is the process of verifying a user's identity (in this case in systems)
+### Example 
+- Passwords
+- Biometrics (Face/Fingerprint ID)
+---
+## Authorisation 
+Authorisation determines what authenticated users are allowed to do 
+### Key Notes 
+- defines permissions for users (Read/Write/Edit)
+- System administrator gets full access
+- Each user has a permitted set of actions assigned to them
+
+
