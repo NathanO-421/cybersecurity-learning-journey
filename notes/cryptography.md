@@ -161,4 +161,4 @@ A method for securely exchanging keys over an insecure channel.
 
 - Cryptography relies heavily on modular arithmetic
 - Security often depends on problems that are easy to compute but hard to reverse
-- Practical systems (like Diffie-Hellman) use mathematical properties to secure communicatio
+- Practical systems (like Diffie-Hellman) use mathematical properties to secure communication
