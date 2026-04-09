@@ -9,7 +9,7 @@ Cybersecurity can broadly be divided into two main areas:
 
 ---
 
-## 🔴 Offensive Security
+## Offensive Security
 
 ### Definition
 Thinking like an attacker to identify vulnerabilities before real hackers exploit them.
@@ -20,7 +20,7 @@ Thinking like an attacker to identify vulnerabilities before real hackers exploi
 
 ---
 
-## 🔵 Defensive Security
+## Defensive Security
 
 ### Definition
 Protecting systems, networks, and data from cyber threats.
@@ -32,7 +32,7 @@ Protecting systems, networks, and data from cyber threats.
 
 ---
 
-# 🛡️ Security Analyst (Blue Team)
+# Security Analyst (Blue Team)
 
 ### Role
 Security analysts act as the **digital defenders** of an organisation.
@@ -50,7 +50,7 @@ Security analysts act as the **digital defenders** of an organisation.
 ### Example Incident
 - Employee logs in from London  
 - Suddenly logs in from another country  
-➡️ Requires investigation to confirm legitimacy
+  - Requires investigation to confirm legitimacy
 
 ---
 
@@ -71,7 +71,7 @@ Security analysts act as the **digital defenders** of an organisation.
 
 ---
 
-# 🏗️ Security Engineer
+# Security Engineer
 
 ### Role
 Designs and maintains systems that protect an organisation.
@@ -105,7 +105,7 @@ Acts as the **architect of security systems**
 
 ---
 
-# 🧪 Penetration Tester (Ethical Hacker)
+# Penetration Tester (Ethical Hacker)
 
 ### Role
 Tests how secure systems are by attempting to break into them legally.
@@ -145,7 +145,7 @@ Simulates real attacks to find weaknesses before attackers do.
 
 ---
 
-## 🔴 Red Teaming (Advanced)
+## Red Teaming (Advanced)
 
 - Simulates full-scale, real-world attacks
 - Long-term engagements
@@ -153,7 +153,7 @@ Simulates real attacks to find weaknesses before attackers do.
 
 ---
 
-# 🧠 Key Takeaways
+# Key Takeaways
 
 - Cybersecurity has two main sides:
   - Offensive (attack)
